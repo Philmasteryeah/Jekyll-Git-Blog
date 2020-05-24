@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Text Formatting"
-author: "Paul Le"
+title: "Markdown"
+author: "Philmaster"
 categories: sample
 tags: [sample]
-image: arctic-1.jpg
+image: proj-2.jpg
 ---
 
 # Markdown Support

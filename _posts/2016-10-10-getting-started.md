@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Getting Started"
-author: "Paul Le"
+title: "Documentation"
+author: "Philmaster"
 categories: documentation
 tags: [documentation,sample]
-image: city-2.jpg
+image: code-1.jpg
 ---
 
 # Millennial
